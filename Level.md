@@ -29,11 +29,11 @@ Load order
 Upon loading a new level, **Level_XX_common** must be loaded first, and then the specific diffiulity scene. **Important**: there may be no referencing between components from the difficulity scene to the common scene at Start() or Awake(). Use a registration pattern instead.
 
 
-Object Hierarchy, Common Scene
+GameObject Hierarchy, Common Scene
 ==============================
 
 
-GameObject: Static
+Static
 ------------------
 
 ### Contents
@@ -47,7 +47,7 @@ GameObject: Static
 * None
 
 
-GameObject: BG
+BG
 ------------------
 
 ### Contents
@@ -59,7 +59,7 @@ GameObject: BG
 * Parallax Scroller
 
 
-GameObject: Zones
+Zones
 ------------------
 
 ### Contents
@@ -67,7 +67,7 @@ GameObject: Zones
 ### Required components
 
 
-GameObject: Grid
+Grid
 ------------------
 
 ### Contents
@@ -75,7 +75,7 @@ GameObject: Grid
 ### Required components
 
 
-GameObject: CameraParent
+CameraParent
 ------------------
 
 ### Contents
@@ -83,7 +83,7 @@ GameObject: CameraParent
 ### Required components
 
 
-GameObject: Player
+Player
 ------------------
 
 ### Contents
@@ -91,7 +91,7 @@ GameObject: Player
 ### Required components
 
 
-GameObject: PathfindingGraph
+PathfindingGraph
 ------------------
 
 ### Contents
@@ -99,7 +99,7 @@ GameObject: PathfindingGraph
 ### Required components
 
 
-GameObject: Checkpoints
+Checkpoints
 ------------------
 
 ### Contents
@@ -107,7 +107,7 @@ GameObject: Checkpoints
 ### Required components
 
 
-GameObject: UI
+UI
 ------------------
 
 ### Contents
