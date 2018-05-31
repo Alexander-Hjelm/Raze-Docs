@@ -76,8 +76,13 @@ Zones
 
 ### Children
 
+* Zone objects with the following components:
+ - **Combat Zone.cs**
+ - **Collider2D** - must be a trigger.
+
 ### Required components
 
+* *None*
 
 Grid
 ------------------
