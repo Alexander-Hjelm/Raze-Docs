@@ -88,7 +88,11 @@ Grid
 
 ### Children
 
+* 2D Tilemaps without collision data
+
 ### Required components
+
+* Grid
 
 
 CameraParent
