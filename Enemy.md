@@ -120,3 +120,25 @@ AI Shield Behavior
 
 Animation State Machine <a name="animation_state_machine"></a>
 =======================
+
+Animator
+--------
+
+
+
+### State Descriptions
+ * **Idle / Walk**: blend tree containing animations for idling and walking.
+	- tag: Movement
+ * **Jump**: jumping state.
+	- tag: Movement
+ * **Hit**: attack state.
+	- tag: Attack
+ * **Recoil**: recoiling state. This is triggered upon being hit by the player and ensures that the enemy cannot move or attack for a limited time.
+	- tag: Recoil
+ * **Dead**: dead state. The player cannot hit the enemy during this state.
+	- tag: Invincible
+
+Template
+--------
+
+When creating new enemies, consider using the template Animator, which can be found at *Assets/Animation/EnemyAnimatorTemplate*.
