@@ -81,8 +81,8 @@ Zones
 ### Children
 
 * Zone objects with the following components:
- - **Combat Zone.cs**
- - **Collider2D** - must be a trigger.
+	- **Combat Zone.cs**
+	- **Collider2D** - must be a trigger.
 
 ### Required components
 
@@ -171,9 +171,9 @@ Checkpoints
 ### Children
 
 * Checkpoint objects with the following components:
- - **Checkpoint.cs** - where the **Id** parameter must be unique among all checkpoints in the scene.
- - **MusicTrigger** - where the **Music Selector** parameter is the music to be played.
- - **Collider2D** - must be a trigger.
+	- **Checkpoint.cs** - where the **Id** parameter must be unique among all checkpoints in the scene.
+	- **MusicTrigger** - where the **Music Selector** parameter is the music to be played.
+	- **Collider2D** - must be a trigger.
 
 ### Required components
 

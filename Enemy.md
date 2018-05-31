@@ -40,8 +40,8 @@ AI Pathfinding
 
 ### Parameters
 * **Path Efficiency Distribution**: a curve that determines how likely the enemy is to take a path depending on its length.
- - X-axis: the relative efficiency of a path, compared to the shortest path (1 = length equal to the shortest path, 0 = path length is infinite)
- - Y-axis: the tendency to choose a path at the corresponding x-value.
+	- X-axis: the relative efficiency of a path, compared to the shortest path (1 = length equal to the shortest path, 0 = path length is infinite)
+	- Y-axis: the tendency to choose a path at the corresponding x-value.
 
 AI Movement
 -----------
