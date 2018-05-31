@@ -170,4 +170,8 @@ UI
 
 ### Children
 
+* UI Canvases
+
 ### Required components
+
+* *None*
