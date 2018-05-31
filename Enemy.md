@@ -1,4 +1,10 @@
-Required Components
+
+# Table of Contents
+1. [Required Components](#required_components)
+2. [Optional Components](#optional_components)
+2. [Animation State Machine](#animation_state_machine)
+
+Required Components <a name="required_components"></a>
 ===================
 
 Sprite Renderer
@@ -89,7 +95,7 @@ Audio Reaction
 
 ### Parameters
 
-Optional Components
+Optional Components <a name="optional_components"></a>
 ===================
 
 AI Shield Behavior
@@ -98,5 +104,5 @@ AI Shield Behavior
 ### Parameters
 
 
-Animation State Machine
+Animation State Machine <a name="animation_state_machine"></a>
 =======================
