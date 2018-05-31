@@ -3,9 +3,8 @@
 1. [Scene Management](#scene_management)
 2. [GameObject Hierarchy](#gameobject_hierarchy)
 
-Scene Management
+Scene Management <a name="scene_management"></a>
 ================
-<a name="scene_management"></a>
 
 Each level is comprised of 5 scenes in total, one **common scene**, and 4 **difficulity scenes**. One difficulity scene is always loaded additively with the common scene when presenting a level in-game, depending on which difficulity is chosen by the player.
 
@@ -35,9 +34,8 @@ Load order
 Upon loading a new level, **Level_XX_common** must be loaded first, and then the specific diffiulity scene. **Important**: there may be no referencing between components from the difficulity scene to the common scene at Start() or Awake(). Use a registration pattern instead.
 
 
-GameObject Hierarchy, Common Scene
+GameObject Hierarchy, Common Scene <a name="gameobject_hierarchy"></a>
 ==============================
-<a name="gameobject_hierarchy"></a>
 
 Static
 ------------------
