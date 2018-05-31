@@ -48,7 +48,7 @@ Static
 
 ### Required components
 
-* None
+* *None*
 
 
 BG
