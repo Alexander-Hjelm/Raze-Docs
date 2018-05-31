@@ -38,6 +38,8 @@ Static
 
 ### Tag
 
+*Untagged*
+
 ### Children
 
 * Non-moving objects with collision data, such as boxes
@@ -54,6 +56,8 @@ BG
 
 ### Tag
 
+*Untagged*
+
 ### Children
 
 * Non-moving objects which will be visible in the background, such as city and sky sprites.
@@ -68,6 +72,8 @@ Zones
 
 ### Tag
 
+*Untagged*
+
 ### Children
 
 ### Required components
@@ -77,6 +83,8 @@ Grid
 ------------------
 
 ### Tag
+
+*Untagged*
 
 ### Children
 
@@ -88,15 +96,22 @@ CameraParent
 
 ### Tag
 
+*Untagged*
+
 ### Children
+
+* The Main Camera object in the scene.
 
 ### Required components
 
+* Camera Follow Behavior
 
 Player
 ------------------
 
 ### Tag
+
+Player
 
 ### Children
 
@@ -108,6 +123,8 @@ PathfindingGraph
 
 ### Tag
 
+PathfindingGraph
+
 ### Children
 
 ### Required components
@@ -118,6 +135,8 @@ Checkpoints
 
 ### Tag
 
+*Untagged*
+
 ### Children
 
 ### Required components
@@ -127,6 +146,8 @@ UI
 ------------------
 
 ### Tag
+
+*Untagged*
 
 ### Children
 
