@@ -146,8 +146,11 @@ PathfindingGraph
 
 ### Children
 
+* Pathfinding nodes with the **Node.cs** component
+
 ### Required components
 
+* *None*
 
 Checkpoints
 ------------------
