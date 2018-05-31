@@ -119,7 +119,22 @@ Player
 
 ### Children
 
+* Feet
+* AttackTriggers
+
 ### Required components
+
+* Sprite Renderer
+* Animator
+* Rigidbody 2D
+* Box Collider 2D
+* Hp
+* Credit Counter
+* Player Movement
+* Player Attack
+* Player Death
+* Player Constants
+* Ammo
 
 
 PathfindingGraph
