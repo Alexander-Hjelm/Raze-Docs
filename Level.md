@@ -36,7 +36,7 @@ GameObject Hierarchy, Common Scene
 Static
 ------------------
 
-### Contents
+### Children
 
 * Non-moving objects with collision data, such as boxes
 * Platforms with collision data and the PlatformEffector2D component
@@ -50,7 +50,7 @@ Static
 BG
 ------------------
 
-### Contents
+### Children
 
 * Non-moving objects which will be visible in the background, such as city and sky sprites.
 
@@ -62,7 +62,7 @@ BG
 Zones
 ------------------
 
-### Contents
+### Children
 
 ### Required components
 
@@ -70,7 +70,7 @@ Zones
 Grid
 ------------------
 
-### Contents
+### Children
 
 ### Required components
 
@@ -78,7 +78,7 @@ Grid
 CameraParent
 ------------------
 
-### Contents
+### Children
 
 ### Required components
 
@@ -86,7 +86,7 @@ CameraParent
 Player
 ------------------
 
-### Contents
+### Children
 
 ### Required components
 
@@ -94,7 +94,7 @@ Player
 PathfindingGraph
 ------------------
 
-### Contents
+### Children
 
 ### Required components
 
@@ -102,7 +102,7 @@ PathfindingGraph
 Checkpoints
 ------------------
 
-### Contents
+### Children
 
 ### Required components
 
@@ -110,6 +110,6 @@ Checkpoints
 UI
 ------------------
 
-### Contents
+### Children
 
 ### Required components
