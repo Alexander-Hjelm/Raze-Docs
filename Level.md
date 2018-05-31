@@ -161,7 +161,10 @@ Checkpoints
 
 ### Children
 
-* Checkpoint objects with the **Checkpoint.cs**, **MusicTrigger** and **Collider2D** components.
+* Checkpoint objects with the following components:
+ - **Checkpoint.cs** - where the **Id** parameter must be unique among all checkpoints in the scene.
+ - **MusicTrigger** - where the **Music Selector** parameter is the music to be played.
+ - **Collider2D**
 
 ### Required components
 
