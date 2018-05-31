@@ -175,3 +175,20 @@ UI
 ### Required components
 
 * *None*
+
+
+EnemyManager
+------------
+
+### Tag
+
+EnemyManager
+
+### Children
+
+* *None*
+
+### Required components
+
+* Positional Awareness
+* Enemy Notification Manager
