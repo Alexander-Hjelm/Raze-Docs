@@ -124,7 +124,7 @@ Animation State Machine <a name="animation_state_machine"></a>
 Animator
 --------
 
-
+![Template Animator screenshot](https://raw.githubusercontent.com/Alexander-Hjelm/Raze-Docs/master/img/template_animator.png "Template Animator")
 
 ### State Descriptions
  * **Idle / Walk**: blend tree containing animations for idling and walking.
