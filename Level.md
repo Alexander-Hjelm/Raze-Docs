@@ -161,8 +161,11 @@ Checkpoints
 
 ### Children
 
+* Checkpoint objects with the **Checkpoint.cs**, **MusicTrigger** and **Collider2D** components.
+
 ### Required components
 
+* *None*
 
 UI
 ------------------
